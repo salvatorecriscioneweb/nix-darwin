@@ -63,7 +63,10 @@
               "openssl"
               "mise"
             ];
-            casks = [ "firefox" ];
+            casks = [
+              "firefox"
+              "zed"
+            ];
           };
 
           # Used for backwards compatibility, please read the changelog before changing.

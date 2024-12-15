@@ -24,7 +24,7 @@
       fish_add_path /run/current-system/sw/bin
       fish_add_path /Users/salvatore.criscione/.nix-profile/bin
 
-      /etc/profiles/per-user/salvatore.criscione/bin/mise activate fish | source
+      /opt/homebrew/bin/mise activate fish | source
       eval "$(/opt/homebrew/bin/brew shellenv)"
     '';
     plugins = [
