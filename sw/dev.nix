@@ -10,7 +10,6 @@
     nixfmt-rfc-style
 
     # Dev
-    mise
     gcc
   ];
 }

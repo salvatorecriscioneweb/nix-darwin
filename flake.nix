@@ -59,7 +59,10 @@
           homebrew = {
             enable = true;
             taps = [ ];
-            brews = [ "openssl" ];
+            brews = [
+              "openssl"
+              "mise"
+            ];
             casks = [ "firefox" ];
           };
 
