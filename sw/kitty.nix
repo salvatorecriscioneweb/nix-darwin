@@ -8,9 +8,9 @@
   programs.kitty = {
     enable = true;
     font = {
-      name = "RobotoMono Nerd Font";
-      package = pkgs.nerd-fonts.roboto-mono;
-      size = 14;
+      name = "iMWritingMono Nerd Font";
+      package = pkgs.nerd-fonts.im-writing;
+      size = 15;
     };
     shellIntegration.enableFishIntegration = true;
     settings = {
