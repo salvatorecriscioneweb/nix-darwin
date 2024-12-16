@@ -23,6 +23,6 @@
       tab_bar_style = "slant";
       tab_bar_align = "center";
     };
-    themeFile = "Catppuccin-Macchiato";
+    themeFile = "CLRS";
   };
 }

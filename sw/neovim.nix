@@ -60,10 +60,4 @@ in
       treesitterWithGrammars
     ];
   };
-
-# Removed For now
-  # home.file."./.config/nvim/" = {
-  #   source = ../dots/nvim;
-  #   recursive = true;
-  # };
 }
