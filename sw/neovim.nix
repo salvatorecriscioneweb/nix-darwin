@@ -72,11 +72,6 @@ in
       title-hidden = true;
       vsync = true;
       wsl = false;
-
-      font = {
-        normal = ["iMWritingMono Nerd Font"];
-        size = 15.0;
-      };
     };
   };
 }
