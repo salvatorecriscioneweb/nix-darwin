@@ -23,6 +23,6 @@
       tab_bar_style = "slant";
       tab_bar_align = "center";
     };
-    themeFile = "Aquarium_Light";
+    themeFile = "tokyo_night_night";
   };
 }

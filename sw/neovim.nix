@@ -65,10 +65,8 @@ in
     enable = true;
     settings = {
       fork = true;
-      idle = true;
-      maximized = false;
+      frame = "transparent";
       neovim-bin = "/etc/profiles/per-user/salvatore.criscione/bin/nvim";
-      no-multigrid = false;
       title-hidden = true;
       vsync = true;
       wsl = false;
