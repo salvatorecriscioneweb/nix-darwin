@@ -23,6 +23,6 @@
       tab_bar_style = "slant";
       tab_bar_align = "center";
     };
-    themeFile = "tokyo_night_night";
+    themeFile = "tokyo_night_moon";
   };
 }
