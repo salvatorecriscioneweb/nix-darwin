@@ -11,5 +11,8 @@
 
     # Dev
     gcc
+
+    # Check Compilation
+    htop
   ];
 }
