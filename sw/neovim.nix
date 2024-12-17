@@ -74,4 +74,9 @@ in
       wsl = false;
     };
   };
+
+  home.file."./.config/nvim/" = {
+    source = ../dots/nvim;
+    recursive = true;
+  };
 }
